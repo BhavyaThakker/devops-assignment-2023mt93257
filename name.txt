@@ -1,5 +1,6 @@
 Hi There!, I am Bhavya Thakker. I am creating this file for devops assignment
 This line added in feature branch by a collaborator
+THis line is added in the dev branch to generate a merge conflict
 
 id : 2023mt93257
 
